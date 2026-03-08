@@ -194,7 +194,7 @@
 	</channel>
 	<channel id="surf-channel">
 		<display-name lang="es">Surf Channel</display-name>
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/surf_channel.png"/>
 	</channel>
 	<channel id="pfl-mma">
 		<display-name lang="es">PFL MMA</display-name>
@@ -206,7 +206,7 @@
 	</channel>
 	<channel id="red-bull-tv-es">
 		<display-name lang="es">Red Bull TV</display-name>
-		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/red_bull_tv.png"/>
 	</channel>
 	<channel id="motorvision-tv-spanish">
 		<display-name lang="es">MOTORVISION.TV</display-name>
@@ -226,7 +226,7 @@
 	</channel>
 	<channel id="fashion-tv">
 		<display-name lang="es">Fashion TV</display-name>
-		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/fashion_tv.png"/>
 	</channel>
 	<channel id="the-design-network-new">
 		<display-name lang="es">The Design Network</display-name>
@@ -246,11 +246,11 @@
 	</channel>
 	<channel id="vivir-con-gatos">
 		<display-name lang="es">Vivir con gatos</display-name>
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/vivir_con_gatos.png"/>
 	</channel>
 	<channel id="vivir-con-perros">
 		<display-name lang="es">Vivir con perros</display-name>
-		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/vivir_con_perros.png"/>
 	</channel>
 	<channel id="stingray-naturescape">
 		<display-name lang="es">Stingray Naturescape</display-name>
@@ -294,7 +294,7 @@
 	</channel>
 	<channel id="flamenco-auditorio">
 		<display-name lang="es">Flamenco Auditorio</display-name>
-		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/02365da1-268e-42e2-8fe2-5d6486ac5ddc.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/flamenco_auditorio.png"/>
 	</channel>
 	<channel id="stingray-greatest-hits">
 		<display-name lang="es">Stingray Greatest Hits</display-name>
@@ -310,7 +310,7 @@
 	</channel>
 	<channel id="qello-concerts-by-stingray">
 		<display-name lang="es">Qello Concerts by Stingray</display-name>
-		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/qello_concerts.png"/>
 	</channel>
 	<channel id="deluxe-lounge-hd">
 		<display-name lang="es">Deluxe Lounge HD</display-name>
@@ -318,15 +318,15 @@
 	</channel>
 	<channel id="that-s-70s">
 		<display-name lang="es">That's 70s</display-name>
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/21ddd31b-ff64-4afe-aaca-0eb13b1a7cff.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/thats_70s.png"/>
 	</channel>
 	<channel id="that-s-80s">
 		<display-name lang="es">That's 80s</display-name>
-		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/thats_80s.png"/>
 	</channel>
 	<channel id="that-s-rock">
 		<display-name lang="es">That's ROCK</display-name>
-		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e8d66036-f48b-417d-961d-45b7bf5ca5c7.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/thats_rock.png"/>
 	</channel>
 	<channel id="vevo-latino-es">
 		<display-name lang="es">Vevo Latino</display-name>
@@ -414,7 +414,7 @@
 	</channel>
 	<channel id="weather-spy-new">
 		<display-name lang="es">Weather Spy</display-name>
-		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/weather_spy.png"/>
 	</channel>
 	<channel id="nature-time-es">
 		<display-name lang="es">Nature Time</display-name>
