@@ -38,7 +38,7 @@
 	</channel>
 	<channel id="cine-friki">
 		<display-name lang="es">Cine Friki</display-name>
-		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/cine_friki.png"/>
 	</channel>
 	<channel id="dark-matter-es-new">
 		<display-name lang="es">Dark Matter</display-name>
@@ -58,7 +58,7 @@
 	</channel>
 	<channel id="cine-western-es">
 		<display-name lang="es">Cine Western</display-name>
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/cine_western.png"/>
 	</channel>
 	<channel id="crime-rakuten-tv">
 		<display-name lang="es">Crimen</display-name>
@@ -78,7 +78,7 @@
 	</channel>
 	<channel id="bbc-series-es">
 		<display-name lang="es">BBC Series</display-name>
-		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ac6b11e-3ef5-48d7-a7b8-2639183af3ab.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/bbc_series.png"/>
 	</channel>
 	<channel id="beyblade-es">
 		<display-name lang="es">Beyblade</display-name>
@@ -90,11 +90,11 @@
 	</channel>
 	<channel id="vive-kanal-d-drama">
 		<display-name lang="es">Vive Kanal D Drama</display-name>
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/vive_kanal_d_drama.png"/>
 	</channel>
 	<channel id="todo-novelas">
 		<display-name lang="es">Todo Novelas</display-name>
-		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/todo_novelas.png"/>
 	</channel>
 	<channel id="bbc-top-gear-spa">
 		<display-name lang="es">Top Gear en español</display-name>
@@ -166,7 +166,7 @@
 	</channel>
 	<channel id="laliga-inside">
 		<display-name lang="es">LaLiga Inside</display-name>
-		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg"/>
+		<icon src="https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/LALIGA_Inside.png"/>
 	</channel>
 	<channel id="inter-24-7-eng">
 		<display-name lang="es">INTER 24/7</display-name>
