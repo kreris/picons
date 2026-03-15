@@ -1,0 +1,39 @@
+{
+  "generator_info": "Mi_guia_EPG_HL",
+  "default": {
+    "lang": "es",
+    "timezone": "Europe/Madrid",
+    "days": 3,
+    "slot_minutes": 60,
+    "start_mode": "midnight"
+  },
+  "output": {
+    "dir": "/github/picons/guia",
+    "file": "mi_guia.xml.gz",
+    "gzip": true
+  },
+  "channels": [
+    {
+      "id": "universo",
+      "display_name": "La historia del universo",
+      "channel_icon": "https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/historia_universo.png",
+      "programme": {
+        "title": "La historia del universo",
+        "desc": "Documental • Muestra el funcionamiento interno de nuestro planeta, del Sistema Solar, de las galaxias y del Universo en sí mismo como nunca se había visto antes. La serie investiga los entresijos de nuestro cosmos. Explora un amplio abanico de fenómenos celestiales y el proceso a través del cual han llegado a ser como son.",
+        "icon": "https://raw.githubusercontent.com/kreris/picons/refs/heads/main/imagenes_guia/historia_universo.png",
+        "category": "Documental"
+      }
+    },
+    {
+      "id": "els-barrufets",
+      "display_name": "Els Barrufets",
+      "channel_icon": "https://raw.githubusercontent.com/kreris/picons/refs/heads/main/picons%20ott/els_barrufets.png",
+      "programme": {
+        "title": "Els Barrufets",
+        "desc": "Dibuixos • Al llogaret dels barrufets totes les cases són bolets. Tots vesteixen igual: pantalons blancs i barret frigi blanc, a excepció del Gran Barrufet, que vesteix de vermell. Ell és el cap del llogaret, a causa de la seva avançada edat i els seus coneixements de màgia.\n\nEl bruixot Gargamel i el seu gat Azrael intenten sempre i per tots els mitjans capturar els barrufets amb paranys. Els objectius són dos: utilitzar-los com a ingredient imprescindible per aconseguir la transmutació del metall i la seva transformació en or, i preparar amb ells «sopa de barrufets», un llegendari plat exquisit de sabor incomparable.",
+        "icon": "https://raw.githubusercontent.com/kreris/picons/refs/heads/main/imagenes_guia/els_barrufets.png",
+        "category": "Dibuixos"
+      }
+    }
+  ]
+}
